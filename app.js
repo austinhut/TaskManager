@@ -1,4 +1,4 @@
-const TestApplication = require('./logger');
+const TestApplication = require('./middleware/loggerlogger');
 const fs = require('fs');
 const testapplication = new TestApplication();
 let data = 'application loaded!\n';
